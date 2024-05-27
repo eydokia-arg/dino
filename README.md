@@ -7,7 +7,7 @@ Dinos are alive
 ![Dinosaurs!](./assets/dinosaur_AR_l.gif)
 
 ### Βήμα 1
-* Αρχικά εκτυπώνουμε τα παρακάτω markers: ([1](./assets/markers/marker01.png), [3](./assets/markers/marker03.png))
+* Αρχικά εκτυπώνουμε τα markers από τον φάκελο markers .png
 
 ### Βήμα 2 
 Ανοίγουμε τον παρακάτω συνδέσμου από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
