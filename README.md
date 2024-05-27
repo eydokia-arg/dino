@@ -7,7 +7,7 @@ A dino combination of marker-based examples!
 * Αρχικά εκτυπώνουμε τα markers από τον φάκελο markers .png
 
 ### Βήμα 2 
-Ανοίγουμε τον παρακάτω συνδέσμου από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
+Ανοίγουμε τον παρακάτω συνδέσμο από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
 * Enter [https://eydokia-arg.github.io/dino/source_code/](https://eydokia-arg.github.io/dino/source_code/)
   
   
