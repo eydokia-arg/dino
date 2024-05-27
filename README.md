@@ -3,8 +3,6 @@ A dino combination of marker-based examples!
 Η εξαφάνιση των δεινοσαύρων: Μελετώντας το Κλίμα και το Περιβάλλον
 Εξερευνήστε τα διαφορετικά κλίματα στα οποία ζούσαν οι δεινόσαυροι, από τα τροπικά δάση έως τα παγωμένα τοπία. Συγκρίνετε τα με τα σύγχρονα κλίματα και αναλύστε πώς επηρέαζαν τη ζωή τους.
 
-Dinos are alive
-![Dinosaurs!](./assets/dinosaur_AR_l.gif)
 
 ### Βήμα 1
 * Αρχικά εκτυπώνουμε τα markers από τον φάκελο markers .png
@@ -12,7 +10,6 @@ Dinos are alive
 ### Βήμα 2 
 Ανοίγουμε τον παρακάτω συνδέσμου από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
 * Enter [https://arcloud27.github.io/arjs02/source_code/](https://arcloud27.github.io/arjs02/source_code/)
-* Enter [https://eydokia-arg.github.io/dino/source_code/]
   
   
 ### Βήμα 3
