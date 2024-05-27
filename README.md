@@ -12,6 +12,8 @@ Dinos are alive
 ### Βήμα 2 
 Ανοίγουμε τον παρακάτω συνδέσμου από τη φορητή μας συσκευή. Ζητείται πρόσβαση από την κάμερα της συσκευής μας.
 * Enter [https://arcloud27.github.io/arjs02/source_code/](https://arcloud27.github.io/arjs02/source_code/)
+* Enter (https://eydokia-arg.github.io/dino/source_code/)
+  
   
 ### Βήμα 3
 Σκανάρουμε τον marker και παρατηρούμε το αντικείμενο.
